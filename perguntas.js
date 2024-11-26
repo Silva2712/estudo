@@ -1,7 +1,7 @@
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'O que é Agro?',
+    'No agro estão as pequenas, médias e grandes empresas de todos os setores, seja do agrícola (pequenas, médias e grandes fazendas), dos insumos, industriais, de distribuição e de serviços'
 )
 
 criaCartao(
